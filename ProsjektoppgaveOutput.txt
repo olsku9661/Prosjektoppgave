@@ -1,0 +1,41 @@
+Prosjektoppgave output:
+Dette er output som vises fra kjøring av programmet SupportDashboardOle.py
+
+--
+Prosjektoppgave - PY1010-1 24H Grunnleggende programmering med Python
+
+	Analyse for telefonselskapet MORSE
+
+Oppgave Del A)
+
+Supportloggen for uke 24 viser at vi hadde 217 henvendelser
+
+Oppgave Del B)
+Se visualisert søylediagram
+
+Oppgave Del C)
+I uke 24 var den korteste support samtalen på: 00:00:59
+Samtalen varte i 00 timer, 00 minutter og 59 sekunder
+
+I uke 24 var den lengste support samtalen på: 00:11:28
+Samtalen varte i 00 timer, 11 minutter og 28 sekunder
+
+Oppgave Del D)
+Gjennomsnittelig samtaletid alle henvendelser uke 24: 00:06:40
+Den gjennomsnittelige samtalen varte i 0 timer, 6 minutter og 40 sekunder
+
+Oppgave Del E)
+Se visualisert sektordiagram
+
+Oppgave Del F)
+Supportavdelingens Net Promoter Score, NPS er 41.9
+Se smultring diagrammets fordeling 😀
+--
+
+I tillegg vises 3 diagrammer som legges ved i samme repo:
+https://github.com/olsku9661/Prosjektoppgave
+
+Det er kun nødvendig å laste ned filen: SupportDashboardOle.py
+Og Excel filen: support_uke_24.xlsx
+
+
