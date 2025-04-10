@@ -1,4 +1,4 @@
-Prosjektoppgave output:
+Prosjektoppgave telefonselskapet MORSE output:
 Dette er output som vises fra kjøring av programmet SupportDashboardOle.py
 
 --
@@ -26,6 +26,8 @@ Den gjennomsnittelige samtalen varte i 0 timer, 6 minutter og 40 sekunder
 
 Oppgave Del E)
 Se visualisert sektordiagram
+Antall henvendelser i løpet av dagen:
+Kl: 08-10 = 98  - Kl: 10-12 = 40  - Kl: 12-14 = 45  - Kl: 14-16 = 34
 
 Oppgave Del F)
 Supportavdelingens Net Promoter Score, NPS er 41.9
