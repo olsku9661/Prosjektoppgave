@@ -187,7 +187,7 @@ plt.show()
 
 import webbrowser  # Importerer denne modulen for å vise Net Promoter siden 
 url = "https://www.blueprnt.com/2018/09/17/net-promoter-score/"
-#webbrowser.open(url)  # Åpner URLen i din default nettleser
+webbrowser.open(url)  # Åpner URLen i din default nettleser
 
 negativ = noytral = positiv = 0
 for scor in score:
